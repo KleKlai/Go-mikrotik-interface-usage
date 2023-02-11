@@ -1,0 +1,86 @@
+                      name:  Uplink-ether1-Globe-SME
+            driver-rx-byte:        4 968 601 060 410
+          driver-rx-packet:            8 550 140 755
+            driver-tx-byte:        1 275 544 800 534
+          driver-tx-packet:            2 460 455 913
+                  rx-bytes:        4 991 013 064 015
+                 rx-packet:            4 257 395 996
+              rx-too-short:                        0
+                     rx-64:                2 040 452
+                 rx-65-127:              554 778 348
+                rx-128-255:               87 411 869
+                rx-256-511:               51 536 952
+               rx-512-1023:               62 892 433
+              rx-1024-1518:            3 500 345 681
+               rx-too-long:                        0
+              rx-broadcast:                1 609 701
+                  rx-pause:                        0
+              rx-multicast:                       38
+              rx-fcs-error:                        0
+            rx-align-error:                        0
+               rx-fragment:                        0
+                 rx-jabber:                        0
+                   rx-drop:                      246
+                  tx-bytes:        1 285 386 521 052
+                 tx-packet:            2 455 359 326
+                     tx-64:                2 000 795
+                 tx-65-127:            1 478 169 452
+                tx-128-255:               90 047 379
+                tx-256-511:               36 087 451
+               tx-512-1023:              116 146 901
+              tx-1024-1518:              738 003 822
+              tx-broadcast:                4 934 613
+                  tx-pause:                        0
+              tx-multicast:                  161 861
+              tx-collision:                        0
+    tx-excessive-collision:                        0
+     tx-multiple-collision:                        0
+       tx-single-collision:                        0
+               tx-deferred:                        2
+         tx-late-collision:                        0
+                   tx-drop:                        0
+              tx-fcs-error:                        0
+
+                      name:  Uplink-ether2-Converge
+            driver-rx-byte:         130 068 980 664
+          driver-rx-packet:             105 962 816
+            driver-tx-byte:          11 856 306 076
+          driver-tx-packet:              64 064 273
+                  rx-bytes:         131 258 056 661
+                 rx-packet:             105 750 822
+              rx-too-short:                       0
+                     rx-64:                 597 056
+                 rx-65-127:               9 252 317
+                rx-128-255:               1 912 071
+                rx-256-511:               1 350 424
+               rx-512-1023:               1 721 562
+              rx-1024-1518:              91 657 396
+               rx-too-long:                       0
+              rx-broadcast:                 370 986
+                  rx-pause:                       0
+              rx-multicast:                 369 018
+              rx-fcs-error:                       0
+            rx-align-error:                       0
+               rx-fragment:                       0
+                 rx-jabber:                       0
+                   rx-drop:                       0
+                  tx-bytes:          12 112 607 639
+                 tx-packet:              64 042 927
+                     tx-64:               4 467 219
+                 tx-65-127:              52 129 020
+                tx-128-255:               1 155 144
+                tx-256-511:                 743 322
+               tx-512-1023:                 992 434
+              tx-1024-1518:               4 577 398
+              tx-broadcast:                   9 311
+                  tx-pause:                       0
+              tx-multicast:                  12 300
+              tx-collision:                       0
+    tx-excessive-collision:                       0
+     tx-multiple-collision:                       0
+       tx-single-collision:                       0
+               tx-deferred:                       0
+         tx-late-collision:                       0
+                   tx-drop:                       0
+              tx-fcs-error:                       0
+
